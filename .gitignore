@@ -39,7 +39,9 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
+DiscordBot/node_modules
+AngularUI/node_modules
+AngularUI/.angular
 jspm_packages/
 
 # Snowpack dependency directory (https://snowpack.dev/)
